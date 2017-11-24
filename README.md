@@ -1,1 +1,2 @@
-# com.iget365.miniapp
+# com.iget365.miniapp 微信小程序
+## 正在开发中...
